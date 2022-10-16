@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import org.w3c.dom.html.HTMLParagraphElement;
-
 public class main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
